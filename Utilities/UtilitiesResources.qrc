@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/TextLineIdea.qml</file>
+        <file>QML/TextAreaIdea.qml</file>
+        <file>Icons/TextLine.png</file>
+        <file>Icons/TextArea.png</file>
+        <file>QML/TextControls.qml</file>
+        <file>Icons/CloseIcon.png</file>
+        <file>QML/TextEditorIdea.qml</file>
+        <file>QML/TextEditorControls.qml</file>
+        <file>QML/ColoredSquare.qml</file>
+        <file>QML/LoadTestingRectangle.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QML/NumbersDisplayIdea.qml</file>
+        <file>QML/NumbersInputIdea.qml</file>
+        <file>QML/NumbersMeanIdea.qml</file>
+        <file>QML/NumbersBinnerIdea.qml</file>
+        <file>Images/MeanGrid.png</file>
+        <file>QML/NumbersMeanIdeaDot.qml</file>
+        <file>QML/NumbersBinnerIdeaDot.qml</file>
+        <file>QML/NumbersBinnerIdeaBoundsLine.qml</file>
+        <file>QML/NumbersBinnerIdeaBar.qml</file>
+        <file>Images/GridLines.png</file>
+        <file>QML/NumbersMeanMinimized.qml</file>
+        <file>QML/NumbersBinnerControls.qml</file>
+        <file>QML/NumbersBinnerControls2.qml</file>
+        <file>QML/NumbersMeanControls.qml</file>
+        <file>QML/NumbersStandardDeviationMinimized.qml</file>
+        <file>QML/NumbersStandardDeviationIdea.qml</file>
+        <file>QML/NumbersStandardDeviationIdeaRectangle.qml</file>
+        <file>Images/StandardDeviationGrid.png</file>
+        <file>Icons/NumbersStandardDeviation.png</file>
+        <file>Icons/NumbersMean.png</file>
+        <file>Icons/NumbersInput.png</file>
+        <file>Icons/NumbersDisplay.png</file>
+        <file>Icons/NumbersBinner.png</file>
+        <file>QML/NumbersSkewMinimized.qml</file>
+        <file>QML/NumbersVarianceMinimized.qml</file>
+        <file>QML/NumbersVarianceIdea.qml</file>
+        <file>Icons/NumbersVariance.png</file>
+        <file>Icons/NumbersStandardDeviationFixedMean.png</file>
+        <file>Icons/NumbersVarianceFixedMean.png</file>
+    </qresource>
+</RCC>
