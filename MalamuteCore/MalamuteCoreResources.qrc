@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/CorkboardImage.jpg</file>
+        <file>Images/CloseIcon.png</file>
+        <file>Images/Blank.png</file>
+        <file>QML/Wire.qml</file>
+        <file>QML/PaletteToolTip.qml</file>
+        <file>QML/StopLight.qml</file>
+        <file>QML/SingleMalamuteMenus.qml</file>
+        <file>QML/PostIt.qml</file>
+        <file>QML/PopupMenuFunctions.js</file>
+        <file>QML/PaletteItem.qml</file>
+        <file>QML/PaletteBarUtilites.js</file>
+        <file>QML/PaletteBar.qml</file>
+        <file>QML/Malamute.qml</file>
+        <file>QML/LegalMenu.qml</file>
+        <file>QML/DragCreationItem.qml</file>
+        <file>QML/Casing.qml</file>
+        <file>QML/AboutMenu.qml</file>
+        <file>Images/SmallerCursor.png</file>
+        <file>Images/StylizedCursor2.png</file>
+        <file>Images/Gear.png</file>
+        <file>Images/DisconnectWire.png</file>
+        <file>Images/CreateWireRight.png</file>
+        <file>Images/CreateWireLeft.png</file>
+        <file>Images/ConnectWire.png</file>
+        <file>Images/BlankCursor.png</file>
+        <file>QML/CasingGear.qml</file>
+        <file>Images/CasingColors6.png</file>
+        <file>Images/CasingColors5.png</file>
+        <file>Images/CasingColors4.png</file>
+        <file>Images/CasingColors3.png</file>
+        <file>Images/CasingColors2.png</file>
+        <file>Images/CasingColors1.png</file>
+    </qresource>
+</RCC>
